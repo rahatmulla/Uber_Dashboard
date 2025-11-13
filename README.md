@@ -8,6 +8,11 @@ Uber’s operations involve multiple vehicle types and a massive volume of rides
 **Objective:**  
 To design a data-driven **interactive** dashboard that simplifies Uber’s operational analytics by enabling interactive insights into bookings, revenue, and vehicle performance.
 
+## Steps and Workflow
+1) Data Cleaning 
+2) Data Exploration
+3) Data Visualization
+
 
 **Key Features and Analysis**   
 1) KPIs (Key Performance Indicators):  
